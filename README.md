@@ -68,6 +68,16 @@
 <br/>
 <br/>
 
+![Snake animation](https://github.com/YgorDev/YgorDev/blob/output/github-contribution-grid-snake.svg)
+[![Ygor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YgorDev&theme=tokyo-night)](https://github.com/YgorDev)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YgorDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorDev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 ### 📊 Estatísticas
 
 <p>
