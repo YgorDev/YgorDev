@@ -71,16 +71,63 @@
 <img src="https://raw.githubusercontent.com/YgorDev/YgorDev/output/snake.svg" alt="Snake animation" />
 
 **🚀 GitHub Estatísticas**
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=YgorDev&show_icons=true&theme=merko&hide_border=true&count_private=true"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YgorDev&layout=compact&theme=merko&hide_border=true&langs_count=8"
+    />
+
+</p>
+<br>
+
+<br><br>
+<br><br>
+<br><br>
+---
+
+# 🧠 Filosofia
+
+```python
+while alive:
+    aprender()
+    construir()
+    evoluir()
+    se está facil, voce não está evoluindo()
+````
+
+---
+
+# 🎯 Objetivos
+
+* Evoluir em Python e automação
+* Aprender desenvolvimento Fullstack
+* Trabalhar internacionalmente
+* Melhorar meu inglês diariamente
+
+---
+
+# 🌎 Contato
 
 <div align="center">
 
-<a href="https://github.com/YgorDev">
-<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YgorDev&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
+<a href="(https://www.linkedin.com/in/ygor-pimentel-bb6248304/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YgorDev&layout=compact&theme=merko&hide_border=true&langs_count=8"/>
-
+<a href="mailto:ygordev1997@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
-
+```
 
