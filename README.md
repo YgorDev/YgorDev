@@ -68,32 +68,19 @@
 <br/>
 <br/>
 
-![Snake animation](https://github.com/YgorDev/YgorDev/blob/output/github-contribution-grid-snake.svg)
-[![Ygor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YgorDev&theme=tokyo-night)](https://github.com/YgorDev)
+<img src="https://raw.githubusercontent.com/YgorDev/YgorDev/output/snake.svg" alt="Snake animation" />
+
+**🚀 GitHub Estatísticas**
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YgorDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/YgorDev">
+<img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YgorDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorDev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YgorDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</a>
 
 </div>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
