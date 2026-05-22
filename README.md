@@ -75,9 +75,9 @@
 <div align="center">
 
 <a href="https://github.com/YgorDev">
-<img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YgorDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YgorDev&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
 
-<img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YgorDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YgorDev&layout=compact&theme=merko&hide_border=true&langs_count=8"/>
 
 </a>
 
