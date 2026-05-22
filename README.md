@@ -77,15 +77,15 @@
     alt="GitHub Stats" 
     height="170" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=YgorDev&show_icons=true&theme=merko&hide_border=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=YgorDev&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=1800"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YgorDev&layout=compact&theme=merko&hide_border=true&langs_count=8"
-    />
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YgorDev&layout=compact&theme=merko&hide_border=true&langs_count=8&cache_seconds=1800"
+  />
 
 </p>
 <br>
