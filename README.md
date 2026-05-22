@@ -7,7 +7,7 @@
 🇺🇸 Estudando inglês para atuar globalmente na tecnologia
 🏗️ Formação acadêmica em Arquitetura
 🔐 Planejando iniciar faculdade em Ciência da Computação ou Cybersegurança
-☕ Viciado em conhecimento, resolução de problemas e construção de projetos
+☕ Viciado em conhecimento, resolução de problemas e construção de projetos.
 
 🇺🇸 About Me
 
